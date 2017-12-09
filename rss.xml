@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<title>calc.tk</title>
+<description></description>
+<atom:link href='https://calc.tk/rss.xml' rel='self' type='application/rss+xml' />
+<atom:link href='https://pubsubhubbub.appspot.com/' rel='hub' />
+<link>https://calc.tk/</link>
+<item>
+<title>calc.tk</title>
+<link>https://calc.tk/</link>
+<guid>https://calc.tk/</guid>
+<pubDate>Sat, 09 Dec 2017 02:21:56 +0000</pubDate>
+</item>
+</channel>
+</rss>
